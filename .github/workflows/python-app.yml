@@ -25,5 +25,5 @@ jobs:
       run: |
         cd /var/www/html
         sudo rm *
-        cd /home/ubuntu/actions-runner/_work/TIC_TAC_TOE.github.io/TIC_TAC_TOE.github.io/
+        cd /home/ubuntu/actions-runner/_work/TIC-TAC-TOE.github.io/TIC-TAC-TOE.github.io
         sudo mv * /var/www/html
